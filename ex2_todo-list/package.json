@@ -1,0 +1,18 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "Todo list application using ES6 classes and modules",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "todo",
+    "es6",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
