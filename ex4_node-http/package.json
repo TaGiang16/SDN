@@ -1,0 +1,11 @@
+{
+  "name": "ex4-node-http",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exercise 4: a REST API and file server using Node.js http and fs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check file.js && node --check index.js"
+  }
+}
